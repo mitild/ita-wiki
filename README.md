@@ -1,13 +1,5 @@
 # ITA Wiki
 
-ITA Wiki is a project built with React.js and Node.js for students at the IT Academy from Barcelona Activa. The goal is to allow them to familiarize themselves with a generic development setup that could be found in their future career. One of the purposes of this project is to allow students to deal with new features, legacy code, fixes and teamwork challenges. As a consequence the priority is not only excellent technical execution, but to provide a full learning experience to our students.
-
-If you're a new student landign on the project, please read everything before getting started.
-
-## Newcomers
-
-Welcome to the IT-Academy-BCN's Wiki GitHub repository! We're glad to have you on board. This section will guide you through the process of getting started with our project, which is divided into frontend and backend development. To help you understand the importance of our onboarding process, we'll discuss the benefits of the Work Breakdown Structure (WBS), our Git workflow, and the tools and libraries you'll need to familiarize yourself with. Remember, be proactive and seek answers on Google and Stack Overflow when you encounter challenges.
-
 Quicklinks:
 
 - <a href="https://www.figma.com/file/ScWpDKxEB3wEGbztXMSJO3/MVP-Wiki-IT-Academy">Visual design</a>.
@@ -20,13 +12,8 @@ Quicklinks:
 - We have a daily at 9.00AM everyday and it is mandatary to assist.
 - We have a sprint planning once each two weeks, preferably on mondays.
 - We have a sprint review (retro) once each two weeks, preferably on thursdays.
-- The project requires a dedication of 15~25 hours.
-
-IMPORTANT: If you cannot dedicate enough time, nor be on the meetings, please reach out to the project lead.
 
 ### Frontend and Backend
-
-Our project is divided into two main areas: frontend and backend development. Depending on your itinerary specialization you will be working on one or the other. Fullstack profiles are also welcome.
 
 Use **Node 18**.
 
